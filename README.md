@@ -1,2 +1,2 @@
 # nexly
-a web for codders 
+a web for coders 
